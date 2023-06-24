@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wilson
-- 👀 I’m interested in Engineering programming and automation.I usually like using Arduino since it is simple.
+- 👀 I’m interested in Engineering programming and automation.
 - 🌱 I’m currently studying B.Eng in Mechatronics
-- 💞️ I’m looking to collaborate on Arduino projects
+- 💞️ I’m looking to collaborate on Electronics and robotics projects projects
 - 📫 You can contact me on email:wilson.nemukula@mandela.ac.za or whatsapp @ 0767396959
 
 <!---
