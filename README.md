@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mudalo Nemukula
+# Hi there 👋 I'm Wilson Nemukula
 
 ## Controls & Automation Engineer | Mechatronics Engineer | Industrial Software Developer
 
